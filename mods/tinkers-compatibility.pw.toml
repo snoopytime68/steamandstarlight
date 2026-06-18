@@ -1,0 +1,13 @@
+name = "Tinkers' Compatibility"
+filename = "tcompat-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b0ccc7fc7931a63df0f810f5cfaf39213b4c055d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6200967
+project-id = 1201964

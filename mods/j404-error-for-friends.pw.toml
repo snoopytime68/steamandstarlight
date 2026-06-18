@@ -1,0 +1,13 @@
+name = "J404 ERROR for friends"
+filename = "Connector-1.0.0-beta.46+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a4ad6605706bebca9470a5affe6f44abaef5d507"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7230135
+project-id = 1386194
