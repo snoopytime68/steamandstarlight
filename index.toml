@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/Text file"
+hash = "c6c124be1d8c27d60af14ae0ff3c6f1e255857401bc645b5931046862e5e9bf3"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
@@ -312,12 +316,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "f526a9b6cd23ddda41deab6da55f03c779479421aa4c0b433b76b5eaf4327faa"
+hash = "c6c124be1d8c27d60af14ae0ff3c6f1e255857401bc645b5931046862e5e9bf3"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "2fb07993ae7a1253379fee7971e42ffcab60f02ca7cfee84537c16d39794b973"
+hash = "5951527450388ed532e6618ca57fcb699fe36ec717edbb8c0adea560c7895576"
 metafile = true
 
 [[files]]
