@@ -3,11 +3,11 @@ filename = "sophisticatedcore-1.20.1-1.2.105.1230.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/Z97W1EwS/versions/NscXmB2u/sophisticatedcore-1.20.1-1.2.105.1230.jar"
 hash-format = "sha1"
 hash = "40beee756bf00ffb574514ba48ec599b8f056d60"
-mode = "metadata:modrinth"
 
 [update]
 [update.modrinth]
-mod-id = "NscXmB2u"
+mod-id = "Z97W1EwS"
 version = "NscXmB2u"
