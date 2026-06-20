@@ -323,16 +323,6 @@ hash = "8b001d223c2458eed8970eb699974cb73d93b75c6ceee62b5f61be85913b98ac"
 metafile = true
 
 [[files]]
-file = "mods/sophisticated-backpacks.pw.toml"
-hash = "128642ee104fe0860327acb885b6d75bf1f4e84948cc59b3025b750fccb28369"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-core.pw.toml"
-hash = "6902592ad74eb044e30afff011b2602c980244f54080c36db8cfa11b7a06f35f"
-metafile = true
-
-[[files]]
 file = "mods/sophisticatedbackpacks-1.20.1-3.24.10.1404.jar"
 hash = "1e64a41ef37487c8aef37da6ce7bf5b0f14f0461ef3a885ec299e818744f8ff5"
 
