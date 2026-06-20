@@ -9,10 +9,6 @@ file = "github save and push codes"
 hash = "e543ee004e0396a57329d52c17e932d4c6d1976dbd9d39be385a13af54034f4a"
 
 [[files]]
-file = "mods/Text file"
-hash = "c6c124be1d8c27d60af14ae0ff3c6f1e255857401bc645b5931046862e5e9bf3"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
