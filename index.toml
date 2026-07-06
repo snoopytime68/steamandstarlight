@@ -59,6 +59,11 @@ hash = "45ab70f62e195c1acf1dbdc994a559d0a5ddbc80528301ddb5b0c2b2a45f667f"
 metafile = true
 
 [[files]]
+file = "mods/copper-bulbs.pw.toml"
+hash = "60b22928863c2ff7c81681e1433573306ee085c01e67d29abcf6ec4f91094c83"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "4101243ecfad34970b81cf6c99f458b67fe848d11870112bc9bab3b16af985eb"
 metafile = true

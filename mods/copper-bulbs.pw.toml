@@ -1,0 +1,13 @@
+name = "Copper Bulbs"
+filename = "copper_bulb.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "96f9a9c10710a1d4a220fd6e0b0635b270d4d07b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4803197
+project-id = 924230
