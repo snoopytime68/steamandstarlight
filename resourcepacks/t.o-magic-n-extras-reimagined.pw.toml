@@ -1,0 +1,13 @@
+name = "T.O Magic 'n Extras Reimagined"
+filename = "Traveloptics_Reimagined_v1.01.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OrldNAMe/versions/gENC33ql/Traveloptics_Reimagined_v1.01.zip"
+hash-format = "sha512"
+hash = "35be5c7c0d8dc0def316efdea70dda1ded219819b12e1722263e9f02bd636e7969b2b28ebb6c4aa56b9253dded35d168ebce2606e3ce5ed723272e85962ec28b"
+
+[update]
+[update.modrinth]
+mod-id = "OrldNAMe"
+version = "gENC33ql"

@@ -14,6 +14,11 @@ hash = "0cbc4b2c6b58b7a94f030ae84f18057e5dc78a17bad429f40b8884926a6ab233"
 metafile = true
 
 [[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "1dc9e1a184ade4918dad17ef20de026053c841bd5a50f122fb783bb3f9185b89"
+metafile = true
+
+[[files]]
 file = "mods/apothic-category-compat.pw.toml"
 hash = "1c6da29367103858461ea5269ddec0d0a63f9ec46f0a1e780b88c64e6a8f5ae2"
 metafile = true
@@ -285,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/l_enders-cataclysm.pw.toml"
-hash = "dfdd246954f9bcfbff66668558b17ba5b3e75a12ba6031c441750a472670fbd8"
+hash = "2077e6d69a10bbe27b402aa52e5a21ba1abec55b7b573e173e703908a85518ad"
 metafile = true
 
 [[files]]
@@ -356,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/pipez.pw.toml"
 hash = "e728b4260283db78e55c60da56e233f6cfcba8d722c2a799eba292b91827c6e9"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "969078b157cd783f7c38ac33407abc4f532c244c973d52810d559f02be06db90"
 metafile = true
 
 [[files]]
@@ -459,4 +469,9 @@ metafile = true
 [[files]]
 file = "mods/zume.pw.toml"
 hash = "145943325d3b47d7fb916835d8530645e3f5806c72f68f9d75183493b2c68425"
+metafile = true
+
+[[files]]
+file = "resourcepacks/t.o-magic-n-extras-reimagined.pw.toml"
+hash = "0c5cad7d035590beb32fc656685704a0e97dbe648af98a29982080b723af9215"
 metafile = true
