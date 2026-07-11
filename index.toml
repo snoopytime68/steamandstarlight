@@ -299,11 +299,6 @@ hash = "716a5a4cf0b5b6319b01966a2d4400fc2746014bdc761de65ce49128f71c89a5"
 metafile = true
 
 [[files]]
-file = "mods/lendercataclysm.pw.toml"
-hash = "fbf967b492d575d65f066941652400dc32b998a16ac477a4b8f0efc2f681296a"
-metafile = true
-
-[[files]]
 file = "mods/libx.pw.toml"
 hash = "5f92ea3a89a013d4a004e1a391ee00dad45715d46e002210a5692b87ef324815"
 metafile = true
