@@ -14,8 +14,18 @@ hash = "0cbc4b2c6b58b7a94f030ae84f18057e5dc78a17bad429f40b8884926a6ab233"
 metafile = true
 
 [[files]]
+file = "mods/apothic-category-compat.pw.toml"
+hash = "1c6da29367103858461ea5269ddec0d0a63f9ec46f0a1e780b88c64e6a8f5ae2"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
@@ -74,6 +84,11 @@ hash = "45ab70f62e195c1acf1dbdc994a559d0a5ddbc80528301ddb5b0c2b2a45f667f"
 metafile = true
 
 [[files]]
+file = "mods/constructs-casting.pw.toml"
+hash = "fc21f5b0e210ef4d5c9d34a5922c2cb0908fd496383f0b56c6f9f5a1ce71f877"
+metafile = true
+
+[[files]]
 file = "mods/copper-bulbs.pw.toml"
 hash = "60b22928863c2ff7c81681e1433573306ee085c01e67d29abcf6ec4f91094c83"
 metafile = true
@@ -120,7 +135,12 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
+hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
+metafile = true
+
+[[files]]
+file = "mods/createtweaker.pw.toml"
+hash = "fe54ee2fff588885e62f4895806efa81408aef7f514ed5818e8ad9338cafbe07"
 metafile = true
 
 [[files]]
@@ -131,6 +151,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
+metafile = true
+
+[[files]]
+file = "mods/dark-doppelganger.pw.toml"
+hash = "0a76893585fc8a3c001a3aea4671772e8eadc7d9d0d22421872811c85438399c"
 metafile = true
 
 [[files]]
@@ -146,6 +171,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "acb2f4b1300c24188642c03692c6cfaf35f3edbfbffc53a32506bbc4fa930d0c"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-lights-creepermeyt.pw.toml"
+hash = "8fb09fd25fc33afafd453847b59c6248616f23063f3d4e165b1b6591fc7ebfcf"
 metafile = true
 
 [[files]]
@@ -210,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "d0914d5a9bd79a8b11f3669f848f00d7028405d57c23f47a12ee2dc61a051856"
+hash = "f97ad6dfe0946d657bdf601b6206d328e04bfed98a8ed9ccd8de09134840149f"
 metafile = true
 
 [[files]]
@@ -230,7 +260,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "5c93a82eec8d7c98458e112533798402f9664f209d379fcc439f9e9aafe9421b"
+hash = "70ac9d84719ceb1baa01e853b49898940766440206dfa2092b4647a256d0765a"
+metafile = true
+
+[[files]]
+file = "mods/jeitweaker.pw.toml"
+hash = "029675dfd46ee0490b5ab10ebb3f260d3a557b60c1ea54066dd90248905fba79"
 metafile = true
 
 [[files]]

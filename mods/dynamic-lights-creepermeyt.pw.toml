@@ -1,0 +1,13 @@
+name = "Dynamic Lights"
+filename = "dynamic-lights-creepermeyt-v1.4.3-mc1.17.x-1.21.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZfuJWuL4/versions/ZfOV7k8V/dynamic-lights-creepermeyt-v1.4.3-mc1.17.x-1.21.x.jar"
+hash-format = "sha512"
+hash = "421850365ffb3262653a8e4617da6624d47bb45a12b760b6943e97a9e6a285d0a5dc3691ec628f75bd8443d00103d4bbdf0d227fcbef8411bc49dedbed9513af"
+
+[update]
+[update.modrinth]
+mod-id = "ZfuJWuL4"
+version = "ZfOV7k8V"
