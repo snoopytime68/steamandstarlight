@@ -1,0 +1,13 @@
+name = "Tutorial Disable – Zero Clutter UI Mod"
+filename = "TUTORIAL_DISABLE-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tCkaZ1XD/versions/IeI7Nt0w/TUTORIAL_DISABLE-1.0.0.jar"
+hash-format = "sha512"
+hash = "6f5415534b51c2c0804b4a608c6fca6aa97df7b85af1ae8a897d77c8832c36716f1ec1b9b61596630101ec7c788ee91b10dbeac99dea5b05565ff3fb0a29374e"
+
+[update]
+[update.modrinth]
+mod-id = "tCkaZ1XD"
+version = "IeI7Nt0w"
