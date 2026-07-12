@@ -5,10 +5,6 @@ file = "Text file"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "github save and push codes"
-hash = "e543ee004e0396a57329d52c17e932d4c6d1976dbd9d39be385a13af54034f4a"
-
-[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "6f864eef65f9a38f57eb0cc6fc71469b36ea70444a10c3e27502d617c5eaf917"
 metafile = true
@@ -86,6 +82,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "45ab70f62e195c1acf1dbdc994a559d0a5ddbc80528301ddb5b0c2b2a45f667f"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
 
 [[files]]
