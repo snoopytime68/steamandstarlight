@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/lionfish-api.pw.toml"
-hash = "300eb043e53e956e58c9ff56d261d2473b473a387eef3dcfec44324c8d330a39"
+hash = "dbddb6ac7e04a0832d1cff21a739cbb42e9fda4f9374721b736f4a6aa12babdb"
 metafile = true
 
 [[files]]
