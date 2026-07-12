@@ -463,6 +463,11 @@ hash = "7600c7a6f0d1cda6e8bc80f75ce4a1326f4c392edd99350136776d90210d7865"
 metafile = true
 
 [[files]]
+file = "mods/tutorial-disable.pw.toml"
+hash = "5f956474fae10104121d8be2a9a665cff132f199d94de92b99aaf083f5e9b365"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "c08817fe8025a9d62c8f7abd5f56a54b90673e5ab60f39ae8fa1d70d5ace529b"
 metafile = true
